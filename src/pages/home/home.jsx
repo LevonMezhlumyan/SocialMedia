@@ -1,6 +1,6 @@
 import Posts from "../../components/posts/posts";
+import Share from "../../components/share/Share";
 import Stories from "../../components/stories/stories";
-import Share from "../../components/share/Share.jsx";
 import "./home.scss";
 
 export default function Home() {
