@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://levon-media.herokuapp.com'
+export const BASE_URL = 'https://levon-media.herokuapp.com/api'
